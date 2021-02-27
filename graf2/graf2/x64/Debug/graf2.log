@@ -1,0 +1,4 @@
+﻿  graf2.cpp
+D:\graf2\graf2\graf2.cpp(80,16): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+D:\graf2\graf2\graf2.cpp(139,16): warning C4267: =: преобразование из "size_t" в "int"; возможна потеря данных
+  graf2.vcxproj -> D:\graf2\x64\Debug\graf2.exe
