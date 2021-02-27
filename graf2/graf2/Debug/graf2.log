@@ -1,0 +1,7 @@
+﻿  graf2.cpp
+C:\Users\Serega\Desktop\graf2\graf2\graf2.cpp(23,12): warning C4101: k: неиспользованная локальная переменная
+C:\Users\Serega\Desktop\graf2\graf2\graf2.cpp(24,7): warning C4101: s: неиспользованная локальная переменная
+C:\Users\Serega\Desktop\graf2\graf2\graf2.cpp(23,9): warning C4101: j: неиспользованная локальная переменная
+C:\Users\Serega\Desktop\graf2\graf2\graf2.cpp(23,18): warning C4101: o: неиспользованная локальная переменная
+C:\Users\Serega\Desktop\graf2\graf2\graf2.cpp(123,25): warning C4101: k: неиспользованная локальная переменная
+  graf2.vcxproj -> C:\Users\Serega\Desktop\graf2\Debug\graf2.exe
